@@ -1,0 +1,32 @@
+/* stili header */
+.contenitore{
+    width: 1090px;
+    margin: auto;
+    text-align: left;
+
+}
+header{
+    background-color: rgb(48, 90, 226);
+    height: 100px;
+    width: 1099px;   
+}
+
+.pattern{
+    height: 150px;
+}
+
+.grey{
+    color: rgb(128, 126, 122);
+}
+
+.blue{
+    color: rgb(77, 77, 190);
+}
+
+/* stili main */
+
+.sottotitoli{
+
+    margin-bottom: 30px;
+}
+
