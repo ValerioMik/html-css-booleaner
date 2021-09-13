@@ -2,14 +2,17 @@
 .contenitore{
     width: 1090px;
     margin: auto;
-    text-align: left;
+    text-align: left  
+}
 
+.pattern{
+    background-color: rgb(22, 108, 158);
+    background-image: url(../img/pattern.png);
+    background-size: 25% 200px;
+    width: 100%;
+    height: 100%;
 }
-header{
-    background-color: rgb(48, 90, 226);
-    height: 100px;
-    width: 1099px;   
-}
+   
 
 .pattern{
     height: 150px;
@@ -30,3 +33,35 @@ header{
     margin-bottom: 30px;
 }
 
+table{
+    margin-bottom: 25px;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+.yellow{
+
+    background-color: yellow;
+}
+
+.staccato{
+    width: 20%;
+}
+.colonna1{
+    background-color: rgb(48, 90, 226) ;
+    width: 30%;
+}
+
+.colonnablue{
+    background-color: rgb(143, 222, 241);
+}
+
+.colonnabianaca{
+    background-color: white;
+}
+
+/* footer */
+
+.img1{
+    display: inline-block;
+}
