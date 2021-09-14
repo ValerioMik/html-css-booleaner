@@ -9,6 +9,13 @@
     height: 100%;
 }
 
+.pattern img{
+
+    width: 15%;
+    position: relative;
+    top: 40px;
+}
+
 .grey{
     color: rgb(128, 126, 122);
 }
@@ -53,20 +60,27 @@ table{
 
 /* footer */
 
-.cont{
+.frase{
     width: auto;
     height: 200px;
     margin-bottom: 3px;
 
 }
 
-.frase1{
+#img1{
     background-image: url(../img/monitor.jpg);
     background-repeat: no-repeat;
 }
 
-.frase2{
+#img2{
     background-image: url(../img/graph.jpg);
     background-repeat: no-repeat;
 }
 
+
+footer span{
+    color: white;
+    margin-left: 10px;
+    position: relative;
+    top: 10px;
+}
